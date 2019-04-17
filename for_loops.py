@@ -28,3 +28,14 @@
     # print(acc_dictionary)
     # for embedded_value in acc_dictionary.values():
     #     print(embedded_value)
+
+# list_data = [1, 2, 3, 4, 5]
+# Using FOR with IF
+# list_data = [int(input("Guess the number?"))]
+# for num in list_data:
+#    if num == 3:
+#     print('found number three!')
+#    elif num > 3:
+#        print('too far! past 3')
+#    else:
+#        print('too soon')
