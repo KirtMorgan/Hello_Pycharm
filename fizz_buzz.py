@@ -1,4 +1,6 @@
-for fizzbuzz in range(20):
+print('Welcome to FizzBuzz')
+input('Please press enter to start a chain and show the FizzBuzz principle')
+for fizzbuzz in range(21):
     if fizzbuzz % 3 == 0 and fizzbuzz % 5 == 0:
         print("fizzbuzz")
         continue
