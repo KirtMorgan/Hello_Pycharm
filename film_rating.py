@@ -1,4 +1,5 @@
 # Film rating exercise
+# PEGI Rating system
 print('Welcome to ShowBox Pictures!')
 user_age = int(input('Please enter your age').strip())
 if user_age >= 18:
