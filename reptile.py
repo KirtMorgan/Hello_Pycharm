@@ -11,6 +11,5 @@ class Reptile(Animal):
     def hunt(self):
         print('Time to Hunt!')
 
-# lizard = Reptile()
-# lizard.seek_heat()
-
+lizard = Reptile()
+lizard.seek_heat()
