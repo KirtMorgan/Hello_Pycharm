@@ -6,7 +6,7 @@ class Base:
        self.skeleton = True
 
     def eating(self):
-        print('The animal takes a bite to eat')
+        print('The animal takes a bite to eat on the ')
     def sleeping(self):
         print('The animal begins to close its eyes to fall sleep')
     def reproducing(self):
